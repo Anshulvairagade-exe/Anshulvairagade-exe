@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Anshul Vairagade — Cybersecurity Student" width="100%"/>
+<img src="banner.svg" alt="Anshul Vairagade — Cybersecurity Student" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=39FF88&center=true&vCenter=true&width=620&lines=Penetration+Testing+%7C+OSINT+%7C+OWASP;Digital+Forensics+%26+Android+Analysis;Adversarial+AI+%26+LLM+Security;Building+tools+that+break+things+safely" alt="Typing SVG" /></a>
 
@@ -124,12 +124,12 @@ Personal portfolio covering Penetration Testing, Digital Forensics & Adversarial
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshulvairagade-exe&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulvairagade-exe&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9" alt="Top languages"/>
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%"/>
+
+<img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%"/>
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" width="49%"/>
 
 <img src="https://streak-stats.demolab.com?user=Anshulvairagade-exe&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshulvairagade-exe&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
 
 </div>
 
